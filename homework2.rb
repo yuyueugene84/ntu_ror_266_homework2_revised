@@ -116,5 +116,6 @@ end
 
 #=================== Main Program Starts Here =============================
 
+# 直接 new 出一個 RockPaperScissors 的物件，呼叫 play，即可玩遊戲
 RockPaperScissors.new.play
 
